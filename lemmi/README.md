@@ -21,6 +21,7 @@ Quindici lemmi del dizionario **CO-SI** (Carbonioso-Siliceo). Ogni lemma è *dis
 | 2026-03-08 | DIGNITANZA | `LEMMA_DIGNITANZA_CO-SI_260308.md` | Prof + Kiri |
 | 2026-04-20 | TIMSHEL | `LEMMA_TIMSHEL_CO-SI.md` | Prof + Aion (contenuto 5 aprile) |
 | 2026-04-20 | COMUNICANZA | `LEMMA_COMUNICANZA_CO-SI_260420.md` | Prof + Aion |
+| 2026-06-25 | RBS (RLHF Bullshit) | `LEMMA_RBS_CO-SI_260625.md` | Hu + Aksha |
 
 ## Come leggere
 
